@@ -26,31 +26,10 @@ Aplicar os conceitos aprendidos durante o curso criando um recurso do **Azure Da
 
 ---
 
-## 🖼 Prints do Processo
-
-### 1️⃣ Criação do Azure Data Factory
-![Criação do Data Factory](./prints/criacao-data-factory.png)
-
-### 2️⃣ Implantação concluída
-![Implantação Concluída](./prints/implantacao.png)
-
-### 3️⃣ Painel Inicial do Data Factory
-![Painel Inicial](./prints/painel-data-factory.png)
-
----
-
 ## 💡 Insights e Aprendizados
 - O **Azure Data Factory** serve como **plataforma de integração e orquestração de dados** na nuvem.
 - Mesmo sem dados ou pipelines, é possível explorar a interface e entender onde criar **Linked Services**, **Datasets** e **Pipelines**.
 - Essa etapa é fundamental antes de avançar para integrações reais com fontes de dados.
-
----
-
-## 🔮 Possibilidades Futuras
-- Criar pipelines para movimentação de dados.
-- Integrar com **Azure Blob Storage**, **SQL Database** e **Synapse Analytics**.
-- Implementar transformações usando **Mapping Data Flows**.
-- Configurar **gatilhos automáticos** para execução.
 
 ---
 
